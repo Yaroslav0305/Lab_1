@@ -122,3 +122,4 @@ result_entry = tk.Text(app, height=5, width=30)
 result_entry.grid(row=4, column=1, padx=10, pady=10)
 
 app.mainloop()
+print("heloy mir")
